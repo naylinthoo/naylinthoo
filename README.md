@@ -1,7 +1,11 @@
 ## Hi there 👋 my name is Nay Lin Htoo
 Welcome to my github profile page. Feel feel to look around!
 
+![Untitled_Artwork](https://github.com/mtm-naylinhtoo/mtm-naylinhtoo/assets/97865794/036af343-bfe8-46fe-899e-8feb18b43baa)
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+Checkout my portfolio website 👉 [here](https://naylinhtoo.netlify.app) 👈
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--
 **mtm-naylinhtoo/mtm-naylinhtoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
