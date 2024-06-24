@@ -7,6 +7,11 @@ Welcome to my github profile page. Feel feel to look around!
 Checkout my portfolio website 👉 [here](https://naylinhtoo.netlify.app) 👈
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
+### 💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,ruby,rails,php,laravel,figma,cs,python)](https://skillicons.dev)
+
 <!--
 **mtm-naylinhtoo/mtm-naylinhtoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
