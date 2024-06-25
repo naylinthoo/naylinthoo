@@ -1,5 +1,5 @@
 ## Hi there 👋 my name is Nay Lin Htoo
-Welcome to my github profile page. Feel feel to look around!
+Welcome to my github profile page. Feel free to look around!
 
 
 ### 💻 Tech Stack:
