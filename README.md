@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Nay Lin Htoo
+## Hi there 👋 my name is Nay Lin
 Welcome to my github profile page. Feel free to look around!
 
 
